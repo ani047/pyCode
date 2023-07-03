@@ -15,3 +15,15 @@ length = len(arr)
 selectionSort(arr,length)
 
 print(arr)
+
+
+'''
+ arr = [1,4,2,11,3,5,4]
+
+for i in range(size):
+    minIndex = i
+    for j in range(minIndex+1,size):
+        if arr[j]<arr[minIndex]:
+            minIndex=j
+            
+'''
